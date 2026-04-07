@@ -1,8 +1,6 @@
 # Atividades de Java - Etec Pedro Ferreira Alves
-
 Aqui estão todos os exercícios de Java que fiz.
 ## Exercícios incluídos:
-
 ### 1. CRUD de Alunos e Professores (Atividade Final)
 - Aplicação completa com telas em **JavaFX + FXML**
 - Cadastro, edição, exclusão e listagem de Alunos e Professores
@@ -25,7 +23,6 @@ Aqui estão todos os exercícios de Java que fiz.
 - JUnit 5
 ## Como rodar o CRUD (principal)
 1. Crie o banco no MySQL:
-   ```sql
 CREATE DATABASE escola CHARACTER SET utf8mb4;
 
 Edite o arquivo config.properties e coloque seu usuário e senha.
